@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Data Analytics, Artificial Intelligence, Machine Learning**
 
-💬 Ask me about **C/C++, Java, Python... or anything [here](https://github.com/tabrejshamsalam/shams24x7/issues)**
+💬 Ask me about **C/C++, Java, Python... or anything [here](https://github.com/the-shams-work/the-shams-work/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
